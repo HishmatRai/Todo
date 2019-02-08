@@ -1,0 +1,36 @@
+
+#btn{
+font-size: 30px;
+margin-left: 40%;
+margin-top: 15px;
+margin-bottom: 10px;
+
+}
+h1{
+   
+    text-align: center;
+    font-size: 50px;
+}
+#d1{
+    height: 30px;
+width: 90%;
+text-align: center;
+font-weight: bold;
+margin-left: 5%;
+border: 2px solid gray;
+}
+#id2{
+    width: 90%;
+    margin-left: 5%;
+}
+
+ul{
+    border: 3px solid red;
+}
+button{
+    font-weight: bold;
+    margin-left: 40px;
+} 
+ #maindivPart1{
+    border: 3px solid black;
+ }
